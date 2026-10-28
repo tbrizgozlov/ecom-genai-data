@@ -1,0 +1,71 @@
+[
+ {
+  "category": "Gözəllik və baxım",
+  "subcategories": [
+   "Makiyaj",
+   "Ətir",
+   "Dəri baxımı"
+  ]
+ },
+ {
+  "category": "Geyim",
+  "subcategories": [
+   "Kişi köynəkləri",
+   "Qadın üst geyimi",
+   "Qadın donları"
+  ]
+ },
+ {
+  "category": "Ayaqqabı",
+  "subcategories": [
+   "Kişi ayaqqabıları",
+   "Qadın ayaqqabıları"
+  ]
+ },
+ {
+  "category": "Aksesuar",
+  "subcategories": [
+   "Gün eynəkləri",
+   "Qadın çantaları",
+   "Zinət əşyaları",
+   "Kişi saatları",
+   "Qadın saatları"
+  ]
+ },
+ {
+  "category": "Elektronika",
+  "subcategories": [
+   "Smartfonlar",
+   "Noutbuklar",
+   "Planşetlər",
+   "Mobil aksesuarlar"
+  ]
+ },
+ {
+  "category": "Ev və mətbəx",
+  "subcategories": [
+   "Mebel",
+   "Ev dekoru",
+   "Mətbəx ləvazimatları"
+  ]
+ },
+ {
+  "category": "Ərzaq",
+  "subcategories": [
+   "Ərzaq məhsulları"
+  ]
+ },
+ {
+  "category": "İdman",
+  "subcategories": [
+   "İdman ləvazimatları"
+  ]
+ },
+ {
+  "category": "Nəqliyyat",
+  "subcategories": [
+   "Motosikletlər",
+   "Avtomobillər"
+  ]
+ }
+]
